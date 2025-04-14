@@ -1,0 +1,59 @@
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "COMPLETED" -out_name "Anime Completed"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "DROPPED" -out_name "Anime Dropped"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "PAUSED" -out_name "Anime Paused"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "PLANNING" -out_name "Anime Planning"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "WATCHING" -out_name "Anime Watching"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "NO COLLECTION" -out_name "No Collection"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2020" -out_name "Anime Winter 2020"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2020" -out_name "Anime Spring 2020"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2020" -out_name "Anime Summer 2020"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2020"   -out_name "Anime Fall 2020"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2021" -out_name "Anime Winter 2021"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2021" -out_name "Anime Spring 2021"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2021" -out_name "Anime Summer 2021"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2021"   -out_name "Anime Fall 2021"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2022" -out_name "Anime Winter 2022"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2022" -out_name "Anime Spring 2022"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2022" -out_name "Anime Summer 2022"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2022"   -out_name "Anime Fall 2022"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2023" -out_name "Anime Winter 2023"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2023" -out_name "Anime Spring 2023"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2023" -out_name "Anime Summer 2023"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2023"   -out_name "Anime Fall 2023"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2024" -out_name "Anime Winter 2024"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2024" -out_name "Anime Spring 2024"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2024" -out_name "Anime Summer 2024"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2024"   -out_name "Anime Fall 2024"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2025" -out_name "Anime Winter 2025"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2025" -out_name "Anime Spring 2025"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2025" -out_name "Anime Summer 2025"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2025"   -out_name "Anime Fall 2025"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE" -out_name "Binge"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE\nENDED" -out_name "Binge Ended"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "NOT\nSTARTED" -out_name "Not Started"
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ed1c24" -gradient 1 -text "ANIME WATCHLIST" -out_name "Anime Watchlist"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ed1c24" -gradient 1 -text "TRAKT WATCHLIST" -out_name "Trakt Watchlist"
+
+
+
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "SPRING " -out_name "Anime Spring "
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "SUMMER " -out_name "Anime Summer "
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "FALL "   -out_name "Anime Fall "
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "WINTER " -out_name "Anime Winter "
+
+AniList: .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#00c8ff" -gradient 1 -text "" -out_name ""
+Plex:    .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "" -out_name ""
+Trakt:   .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ed1c24" -gradient 1 -text "" -out_name ""
+
+AniList: #00c8ff
+Season:  #add9e6
+Plex:    #e5a00d
+Trakt:   #ed1c24

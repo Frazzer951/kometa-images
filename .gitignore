@@ -1,0 +1,6 @@
+*.ini
+*.env
+
+generate/**/*.png
+generate/**/*.jpg
+generate/playback.txt
