@@ -35,6 +35,11 @@
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2025" -out_name "Anime Summer 2025"
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2025"   -out_name "Anime Fall 2025"
 
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#add9e6" -gradient 1 -text "WINTER 2026" -out_name "Anime Winter 2026"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#ffd817" -gradient 1 -text "SPRING 2026" -out_name "Anime Spring 2026"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#2a81b8" -gradient 1 -text "SUMMER 2026" -out_name "Anime Summer 2026"
+.\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#cc5512" -gradient 1 -text "FALL 2026"   -out_name "Anime Fall 2026"
+
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE" -out_name "Binge"
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "BINGE\nENDED" -out_name "Binge Ended"
 .\create_poster.ps1 -clean 1 -font Comfortaa-Regular -base_color "#e5a00d" -gradient 1 -text "NOT\nSTARTED" -out_name "Not Started"
